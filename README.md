@@ -1,5 +1,5 @@
 
-# Instagram UI Clone
+# NetflixUI Clone
 
 I created this project to learn and improve my skills with HTML and CSS, as well as learn new concepts, such as layout, responsiveness, positioning, and some JS concepts.
 
